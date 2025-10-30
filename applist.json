@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "id": "TA1",
+      "name": "TEST_APP",
+      "zip_url": "LINK",
+      "icon_url": "LINK",
+      "version": "1.0",
+      "description": "TEST APP FOR OBOARD"
+    }
+  ]
+}
