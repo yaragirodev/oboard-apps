@@ -9,5 +9,14 @@
       "version": "1.0",
       "description": "TEST APP FOR OBOARD"
     }
+    {
+      "id": "listTest",
+      "name": "LISTTEST_APP",
+      "author": "yaragirodev",
+      "zip_url": "NOLINK",
+      "icon_url": "https://github.com/yaragirodev/oboard-apps/blob/main/TA1/icon.png?raw=true",
+      "version": "1.0",
+      "description": "TEST APP FOR MARKET APP LIST"
+    }
   ]
 }
