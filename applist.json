@@ -13,7 +13,7 @@
       "id": "listTest",
       "name": "LISTTEST_APP",
       "author": "yaragirodev",
-      "zip_url": "NOLINK",
+      "zip_url": "https://github.com/yaragirodev/oboard-apps/raw/refs/heads/main/TA1/APP.zip",
       "icon_url": "https://github.com/yaragirodev/oboard-apps/blob/main/TA1/icon.png?raw=true",
       "version": "1.0",
       "description": "TEST APP FOR MARKET APP LIST"
