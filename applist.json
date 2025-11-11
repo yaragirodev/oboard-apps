@@ -8,6 +8,16 @@
             "icon_url": "https://github.com/yaragirodev/oboard-apps/blob/main/TA1/icon.png?raw=true",
             "version": "1.0",
             "description": "TEST APP FOR OBOARD"
+        },
+        
+        {
+            "id": "mash",
+            "name": "МЭШ",
+            "author": "yaragirodev",
+            "zip_url": "-",
+            "icon_url": "-",
+            "version": "1.0",
+            "description": "Московский электронный дневник для Oboard! (на самом деле это просто редирект на сайт лол)"
         }
     ]
 }
