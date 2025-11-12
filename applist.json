@@ -14,10 +14,10 @@
             "id": "mash",
             "name": "МЭШ",
             "author": "yaragirodev",
-            "zip_url": "-",
+            "zip_url": "https://github.com/yaragirodev/oboard-apps/raw/refs/heads/main/mesh/app.zip",
             "icon_url": "https://github.com/yaragirodev/oboard-apps/blob/main/mesh/icon.png?raw=true",
             "version": "1.0",
-            "description": "Московский электронный дневник для Oboard! (на самом деле это просто редирект на сайт лол)"
+            "description": "Московский электронный дневник для Oboard! (на самом деле это просто редирект на сайт)"
         }
     ]
 }
