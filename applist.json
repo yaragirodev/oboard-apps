@@ -18,6 +18,15 @@
             "icon_url": "https://github.com/yaragirodev/oboard-apps/blob/main/mesh/icon.png?raw=true",
             "version": "1.0",
             "description": "Московский электронный дневник для Oboard! (на самом деле это просто редирект на сайт)"
+        },
+        {
+            "id": "owiki",
+            "name": "OWiki",
+            "author": "yaragirodev",
+            "zip_url": "-",
+            "icon_url": "-",
+            "version": "1.0",
+            "description": "OWiki - is a OBoard Wiki."
         }
     ]
 }
